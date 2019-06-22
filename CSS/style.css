@@ -1,0 +1,54 @@
+/****************TAG SELECTORS*****************/
+body {
+  background-color: #fffde8;
+  color: maroon;
+  font-family: monospace;
+  font-size: 18px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #EA9744;
+  font-family: serif;
+  font-size: 75px;
+  padding-top: 20px;
+}
+
+h1:hover {
+  color:#ff4057;
+}
+
+hr {
+  border-style: none;
+  border-top-style: double;
+  border-color: #beeef7;
+  border-width: 6px;
+  width: 20%;
+}
+
+img:hover {
+transform: rotate(20deg);
+}
+
+img {
+  padding: 10px;
+  margin: 10px; 
+
+}
+
+
+/****************CLASS SELECTORS*****************/
+.croissant {
+  background-color: #beeef7;
+}
+
+.circular{
+  border-radius: 200%;
+}
+
+.poultry {
+  background-color: red;
+}
+
+/****************ID SELECTORS*****************/
